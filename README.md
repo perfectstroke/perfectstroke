@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @perfectstroke
-- 👀 I’m interested in music
-- 🌱 I’m currently learning live streaming
-- 💞️ I’m looking to collaborate on language exchange
+- 👋 Hi, I’m Paul
+- 👀 I’m interested in live music mixing
+- 🌱 I’m currently learning audio streaming
 - 📫 You can reach me on Telegram: @cantstopdigging
 
 <!---
